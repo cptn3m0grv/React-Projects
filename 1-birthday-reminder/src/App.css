@@ -1,0 +1,40 @@
+.center-element{
+    position: relative;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.8rem;
+    background-color: white;
+    width: 23rem;
+    border: 1px solid white;
+    border-radius: 0.3rem;
+}
+
+article{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+img{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+
+.space-between{
+    margin-left: 1rem;
+}
+
+h4, p{
+    margin: 0.3rem;
+}
+
+.btn{
+    text-align: center;
+}
+
+button{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    width: 5rem;
+    background-color: rgb(255, 148, 105);
+}
