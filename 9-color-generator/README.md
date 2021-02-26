@@ -1,6 +1,14 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Value.js
+Get tints and shades of CSS colors.
+[noeldelgado/values.js: Get the tints and shades of a color (github.com)](https://github.com/noeldelgado/values.js)
+
+#### Installation
+#### `npm install value.js --save`
 
 ## Available Scripts
 
